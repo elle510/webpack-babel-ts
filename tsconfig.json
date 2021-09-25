@@ -22,6 +22,9 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
     "jsx": "react"
   },
   "exclude": ["**/node_modules", "**/.*/", "**/build"]
